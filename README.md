@@ -2,6 +2,9 @@
 
 > A sleek, modern Flutter app to record 15-second videos or pick videos from your gallery, trim them, and preview with real-time playback. Inspired by TikTok and Instagram Reels.
 
+![Flutter](https://img.shields.io/badge/Flutter-3.0-blue?style=flat&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-2.17-blue?style=flat&logo=dart)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 ---
 
 ## 🌟 Features
@@ -39,14 +42,15 @@ git clone https://github.com/your-username/flutter_video_record_gallery.git
 cd flutter_video_record_gallery
 flutter pub get
 flutter run
+```
 
-🛠 Tech Stack
+2.  **Tech Stack**
 	•	Flutter & Dart
 	•	Packages: camera, image_picker, video_trimmer, video_player, path_provider, google_fonts
 
 ⸻
 
-🤝 Contributing
+3. **Contributing**
 	•	Fork the repo
 	•	Make your feature branch: git checkout -b feature/my-feature
 	•	Commit your changes: git commit -m 'Add feature'
